@@ -2,11 +2,11 @@
 
 ## Original
 
-*   
-*   
-*   
-*   
-*   
+* MaXSaxeDesign  
+* RepositoryList  
+* Barrett  
+* MachineGun  
+* G36S  
 *   
 *   
 *   
